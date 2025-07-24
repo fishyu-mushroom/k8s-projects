@@ -1,5 +1,5 @@
 # application.yaml
-apiVersion: argoproj.io/v1alpha11
+apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: myapp-argo-application
